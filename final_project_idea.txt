@@ -1,0 +1,24 @@
+Hello! 
+
+This is my final project idea. 
+Since I want to be a dentist, I thought hey, let's do one about carries and dental health. 
+
+I want to highlight questions like "Does income per household have an effect on %carries?" 
+or "How much sugar intake is the threshold for a cavity? What DNA sequences are linked to 
+increased carries?" and questions of that caliber. 
+
+The data sets that I would use for these would be public data from NHANES, which is only 
+one source of data, but they have a large range of data dimensions, such as RIDAGEYR which 
+would mean age in years. (Age is a big variable in cavity vulnerability!) 
+The main data sets that I want to explore are 
+Cavities
+Age
+Sugar intake 
+SES*
+Fluoride(proxy)
+Genetic variants (GWAS catalog) 
+
+*socioeconomic status
+
+For creating data graphs and plots, I'm hoping to make clear linear line graphs with the
+associated dimensions in order to find clear results for my hypothesis. 
